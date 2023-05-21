@@ -1,1 +1,2 @@
-# .github
+# EcoNuker Organization's Repository
+why? idk.
