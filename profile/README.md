@@ -29,4 +29,5 @@ https://beta.econuker.xyz/api
 https://docs.econuker.xyz
 
 ### API Libraries
-https://pypi.org/project/econuker
+https://pypi.org/project/econuker (https://github.com/EcoNuker/EcoNuker.py)
+https://github.com/EcoNuker/EcoNuker.js (Coming SOON)
